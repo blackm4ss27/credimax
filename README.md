@@ -1,10 +1,14 @@
 # Credimax
+App de Banco trabajo Grupal
+Realizado por:
+    -Matheus Tapia M. Arturo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
+
+Proyecto Creado en [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Para correr `ng serve` Corriendo en `http://localhost:4200/`. 
 
 ## Code scaffolding
 
